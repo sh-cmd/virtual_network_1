@@ -1,0 +1,12 @@
+rg_name = "demo"
+sn_be_cidr = ["10.8.0.0/24"]
+sn_fe_cidr = ["10.8.1.0/24"]
+sn_fe_name = "frountend"
+sn_be_name = "backend"
+vn_cidr = ["10.8.0.0/16"]
+vn_name = "demo_vn"
+location = "westus2"
+vm_size = "Standard_DS1_v2"
+vm_name = "vm1"
+vm_interface_name = "vm_interface"
+sg_name = "8080"
